@@ -13,8 +13,8 @@ contract GnomeMines is GasHelper, ERC20 {
   address constant private ZERO = 0x0000000000000000000000000000000000000000;
   address constant private WBNB = 0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c; // BSC WBNB
 
-  string constant private _nameToken = "Gnome Mines Token";
-  string constant private _symbolToken = "GMINES";
+  string constant private _nameToken = "Gnome Mines Token V2";
+  string constant private _symbolToken = "GMINESv2";
 
   string constant public url = "www.gnomemines.com";
   string constant public author = "Lameni";
